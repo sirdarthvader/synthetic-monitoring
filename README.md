@@ -1,4 +1,4 @@
-# copilot-synthetic-monitors
+# synthetic-monitors
 
 > Synthetic monitoring is a monitoring technique that is done by using an emulation or scripted recordings of transactions
 > [Wikipedia article](https://en.wikipedia.org/wiki/Synthetic_monitoring)
